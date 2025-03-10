@@ -1,5 +1,3 @@
-# This repo is used for devops training by Dirane TAFEN (diranetafen@yahoo.com)
-
 ## Recommended Vagrant Version: [2.4.1](https://releases.hashicorp.com/vagrant/2.4.1/)
 
  - ​Windows hosts : [64 bits](https://releases.hashicorp.com/vagrant/2.4.1/vagrant_2.4.1_windows_amd64.msi) || [32 bits](https://releases.hashicorp.com/vagrant/2.4.1/vagrant_2.4.1_windows_i686.msi)
